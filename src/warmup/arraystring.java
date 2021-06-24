@@ -5,4 +5,6 @@ public class arraystring {
         return arg.split(" ");
 //        int myNum = Integer.parseInt("eighteen");
     }
+
+
 }
