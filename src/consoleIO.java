@@ -9,6 +9,7 @@ public class consoleIO {
 //int age = 21;
 //        System.out.printf("my name is %s and im a %s ,i drive a %s. \nI am %d ", name ,role,car, age);
 
+
 //        Scanner sc = new Scanner(System.in);
 //        System.out.println("What year were you born");
 //        String year = sc.next();
