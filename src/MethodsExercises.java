@@ -93,7 +93,7 @@ public class MethodsExercises {
             System.out.println("Your dice roll 1 = " + ((int)(Math.random() * range) + 1) );
             System.out.println("Your dice roll 2 = " + ((int)(Math.random() * range) + 1) );
 
-            System.out.println("Do you wish to continue? y/n");
+            System.out.println("Do you want to continue? y/n");
             if(scan.nextLine().toLowerCase().equals("n")){
                 break;
             }
