@@ -15,11 +15,11 @@ public class ArraysExercises {
 //        }
 
         String[] Person = new String[3];
-        Person[0] = "Haruko";
-        Person[1] = "Naota";
-        Person[2] = "Ninamori";
+        Person[0] = "nathan";
+        Person[1] = "mya";
+        Person[2] = "tiger";
 
-        String personElement = "Canti";
+        String personElement = "kayn";
 
         for(String n: Person){
             System.out.println(n);
