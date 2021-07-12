@@ -13,7 +13,7 @@ public class ObjectOrientedProgramming {
 
         Person nathanPerson = new Person();
         nathanPerson.setName("nathan");
-        System.out.println(nathanPerson.getEntertainment("playing games"));
+        System.out.println(nathanPerson.getEntertainment("play games"));
 
 
     }
