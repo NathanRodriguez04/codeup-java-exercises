@@ -9,7 +9,7 @@ public class Input {
         this.number = number;
         this.doubleNum = doubleNum;
     }
-    public String getString(){
+    public String getString(String please_enter_an_integer){
         String message = "hello";
         return message;
     }
