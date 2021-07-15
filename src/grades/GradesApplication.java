@@ -25,7 +25,7 @@ public class GradesApplication {
     private void runInteraction() {
         System.out.println(getStudentsList());
         System.out.println("\nWhat student would you like to see more information on?");
-        String response = input.getString("Please enter an integer");
+        String response = input.getString();
         if (students.containsKey(response)) {
             System.out.println(getStudentInfo(response));
         } else {
