@@ -19,7 +19,7 @@ public class HighLow {
 
         int rando = rand.nextInt(upperbound);
 
-        System.out.println("Random number: " + rando);
+        System.out.println("The random number: " + rando);
 
         return rando;
     }
