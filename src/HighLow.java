@@ -52,7 +52,7 @@ public class HighLow {
             System.out.println("HIGHER");
             userNumber(random);
         } else {
-            System.out.println("GOOD GUESS!");
+            System.out.println("THAT WAS A GOOD GUESS!");
         }
     }
 
