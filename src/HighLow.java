@@ -54,6 +54,7 @@ public class HighLow {
         } else {
             System.out.println("THAT WAS A GOOD GUESS!");
         }
+
     }
 
 }
