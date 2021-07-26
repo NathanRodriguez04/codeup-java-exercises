@@ -48,7 +48,7 @@ public class StringsLecture {
     int userMiles = sc.nextInt();
 
     checkMiles(userMiles);
-    System.out.println("no more miles left");
+    System.out.println("you dont have anymore miles left");
     }
 
     public static void checkMiles(int miles) {
