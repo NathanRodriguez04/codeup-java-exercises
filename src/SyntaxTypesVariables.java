@@ -79,7 +79,7 @@ public class SyntaxTypesVariables {
         if(isNiceDay){
             System.out.println("what a lovely day");
         } else {
-            System.out.println(" mmm it's too hot");
+            System.out.println(" mmm it's wayyy too hot");
         }
 
 
