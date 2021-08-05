@@ -82,11 +82,6 @@ public class SyntaxTypesVariables {
             System.out.println(" mmm it's wayyy too hot");
         }
 
-
-
-
-
     }
-
 
 }
